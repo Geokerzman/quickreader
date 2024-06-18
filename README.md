@@ -27,7 +27,7 @@ Replace 'YOUR_TELEGRAM_BOT_TOKEN' in bot.js with your actual Telegram Bot API to
 Usage
 Run the bot:
 
-Копировать код
+
 node bot.js
 Open your Telegram app and send an image to your bot.
 
